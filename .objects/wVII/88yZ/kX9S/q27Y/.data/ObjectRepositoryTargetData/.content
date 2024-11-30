@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7Yd5qbzppEeOfHfADJpqBA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/testdata/checks/390/Check-Request-For-99771480.pdf" CVScreenId="b65058a8-8563-42f1-80d1-3528ce070fda" DesignTimeRectangle="1656, 973, 110, 33" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;wnd title='&amp;amp;Save' /&gt;" Guid="00573f2b-19e0-4df0-b733-2f0678ab9b2d" ScopeSelectorArgument="&lt;wnd app='msedge.exe' title='Save As' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ff777eb45c3bb975ed34ad482f4027e1.png" xmlns="">07kBKxy8dmUWBuIxTnwFONw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

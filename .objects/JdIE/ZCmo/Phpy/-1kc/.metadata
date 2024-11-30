@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Save link as",
+  "Type": "Element",
+  "Id": "-1kccjKldUWejw7txepTVw",
+  "Reference": "fQeHmnSmrEerp-sDkPETbg/-1kccjKldUWejw7txepTVw",
+  "ParentRef": "fQeHmnSmrEerp-sDkPETbg/PhpySzSoR068xYHnhtGvSQ",
+  "Created": "2024-11-23T13:56:30.9715835Z",
+  "Updated": "2024-11-23T13:56:30.9715835Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

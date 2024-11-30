@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Check Amount 15663",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "r5UDM-g2QkiG2UbkM1WiSg",
+  "Reference": "fQeHmnSmrEerp-sDkPETbg/r5UDM-g2QkiG2UbkM1WiSg",
+  "ParentRef": "fQeHmnSmrEerp-sDkPETbg/qxmtkwvLlk60uHkNvUZm-g",
+  "Created": "2024-11-23T09:53:42.8557276Z",
+  "Updated": "2024-11-23T09:53:42.8557276Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

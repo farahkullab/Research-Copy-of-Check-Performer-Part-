@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="P4ctrh0rO0KWTDgN700gQA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="9, 38, 1422, 700" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;ctrl role='client' /&gt;" FuzzySelectorArgument="&lt;ctrl role='client' automationid='' /&gt;" Guid="2ae186d1-7dc6-4603-acfe-29885cba1058" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' cls='HwndWrapper*' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d5c3a1dc9ee242a4f109d1ad9d871bc6.png" xmlns="">0sixnER5p206scHyB0tvxfg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TakeScreenshot</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

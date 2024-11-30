@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DfrdjeUmoE2ZX7vt-Bv8og" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/104064037" CVScreenId="e264c834-fd17-4470-8288-3c24dea12a83" DesignTimeRectangle="290, 615, 292, 47" DesignTimeScaleFactor="1.4249999523162842" ElementType="Button" FullSelectorArgument="[string.Format(&quot;&lt;webctrl href='https://acme-test.uipath.com/testdata/checks/*/Check-Request-For-{0}.pdf' tag='A' /&gt;&lt;webctrl aaname=' Download Check Request' tag='BUTTON' /&gt;&quot;, in_WIDNumber)]" Guid="7ae1de8b-5c00-4851-af2b-134393ce5729" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="615609c45660f5e9c78e3ee222f04b88.png" xmlns="">0AoIvB4c6FEyFVnt7sxfeDA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="63898868" IsVariable="False" Name="in_WIDNumber" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

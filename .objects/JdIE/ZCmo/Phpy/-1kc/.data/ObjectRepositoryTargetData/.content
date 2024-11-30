@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LlOCS1Fo7UO9xGE0O9Cx_g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/104064037" CVScreenId="58ee1e9d-223d-49e2-9de8-f304387db826" CvTextArea="100, 277, 81, 14" CvTextArgument="Save link as" CvType="Text" DesignTimeRectangle="40, 261, 377, 46" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;ctrl name='Save link as' role='menu item' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Save link as' role='menu item' automationid='' check:text='Save link as' /&gt;" Guid="a112d043-f98b-4b3c-bed2-19ee8b97a16e" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' idx='*' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dd95dcbbe1e99a76056362ba2b479409.png" xmlns="">0MyZDpwb7W0WT0nBozdP_NA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

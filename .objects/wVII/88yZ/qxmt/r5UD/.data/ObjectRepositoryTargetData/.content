@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qlqk2V2_dUOJCjyoF-nE0g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/testdata/checks/390/Check-Request-For-63898868.pdf" CVScreenId="1f83443f-75d5-4cec-8eef-9a506eec1dc8" CvTextArea="460, 820, 284, 23" CvType="AnyWordGroup" DesignTimeRectangle="460, 819, 284, 22" DesignTimeScaleFactor="1.25" ElementType="Text" Guid="1aac9d92-8556-4be2-b8c9-95bad2b6db11" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Check-Request-For-63898868.pdf' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1f83443f-75d5-4cec-8eef-9a506eec1dc8" CvTextArea="460, 924, 244, 22" CvTextArgument="Check Amount 15663" CvType="Text" DesignTimeRectangle="460, 923, 244, 22" ElementType="Text" Guid="d2359735-5804-4b0d-a21b-72d70aca337b" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7922be6a992fed335f4ffec68ada2cb8.png" xmlns="">0JUsdf7VOsUi-GuMSy2qc6A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

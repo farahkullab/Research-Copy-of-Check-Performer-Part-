@@ -1,0 +1,1 @@
+{"Target":{"Guid":"2ae186d1-7dc6-4603-acfe-29885cba1058","Ancestry":[{"IsSelected":true,"Selector":"<wnd app=\"acme-system3.exe\" cls=\"HwndWrapper*\" idx=\"*\"/>","ValidAttributes":{"app":"acme-system3.exe","cls":"HwndWrapper*","aastate":"sizeable, moveable, focusable"}},{"IsSelected":true,"Selector":"<ctrl role=\"client\"/>","ValidAttributes":{"role":"client"}}]}}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Upload Check Copy",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "LBNNNvPVq02NpqedY0rQSw",
+  "Reference": "fQeHmnSmrEerp-sDkPETbg/LBNNNvPVq02NpqedY0rQSw",
+  "ParentRef": "fQeHmnSmrEerp-sDkPETbg/IDBj4PxHJUytZ_rXb5e0vA",
+  "Created": "2024-11-24T07:07:53.149324Z",
+  "Updated": "2024-11-24T07:07:53.149324Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

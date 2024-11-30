@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PMzwY8SxR0mb-K_ZY2dZOQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/testdata/checks/390/Check-Request-For-99771480.pdf" DesignTimeRectangle="1558, 185, 52, 47" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='*.pdf' role='document' /&gt;&lt;ctrl name='PDF bar' role='tool bar' /&gt;&lt;ctrl name='Save (Ctrl+S)' role='push button' /&gt;" Guid="d0ac3d30-5f9a-4b12-b91e-f288cc9eae9b" ScopeSelectorArgument="&lt;wnd app='msedge.exe' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5b90e4f47086dd84b1d3e4d405330776.png" xmlns="">0-tCerRLYv0-omwwn8Q4ogQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
